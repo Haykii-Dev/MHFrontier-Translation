@@ -623,7 +623,9 @@ index,source,target
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
 221,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 222,"{c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
 {c05}≪ＨＲ3以上≫{/c}の
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
@@ -1754,19 +1756,29 @@ membres{/c} pour les dates."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
 616,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 617,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 618,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 619,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 620,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 621,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Achat :
 {c05}Boutique générale{/c}."
@@ -1775,7 +1787,8 @@ membres{/c} pour les dates."
 {c05}Boutique générale{/c}."
 623,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 624,"{c05}≪ＨＲ3以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。",
@@ -1790,7 +1803,8 @@ membres{/c} pour les dates."
 {c05}Boutique générale{/c}."
 628,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 629,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Achat :
 {c05}Boutique générale{/c}."
@@ -1802,16 +1816,20 @@ membres{/c} pour les dates."
 {/c}から入手可能。",
 632,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 633,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 634,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 635,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 636,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Achat :
 {c05}Boutique générale{/c}."
@@ -1820,7 +1838,8 @@ membres{/c} pour les dates."
 {c05}Boutique générale{/c}."
 638,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 639,"{c05}≪ＨＲ3以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。",
@@ -1829,28 +1848,35 @@ membres{/c} pour les dates."
 {c05}Boutique générale{/c}."
 641,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 642,"{c05}≪ＨＲ3以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。",
 643,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 644,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 645,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 646,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 647,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 648,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 649,"{c05}≪ＨＲ4以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。","Achat en {c05}HR4+{/c} :
@@ -1935,17 +1961,25 @@ membres{/c} pour les dates."
 678,"クエストの{c05}≪支給品≫{/c}
 {c02}持ち帰り不可。","{c05}Objet fourni{/c} en quête.
 {c02}Non conservable."
-679,{c05}≪大闘技会≫{/c}用アイテム,
-680,{c05}≪大闘技会≫{/c}用アイテム,
-681,{c05}≪大闘技会≫{/c}用アイテム,
-682,{c05}≪大闘技会≫{/c}用アイテム,
+679,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
+680,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
+681,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
+682,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
 683,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Achat :
 {c05}Boutique générale{/c}."
-684,{c05}≪大闘技会≫{/c}用アイテム,
-685,{c05}≪大闘技会≫{/c}用アイテム,
-686,{c05}≪大闘技会≫{/c}用アイテム,
-687,{c05}≪大闘技会≫{/c}用アイテム,
+684,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
+685,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
+686,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
+687,{c05}≪大闘技会≫{/c}用アイテム,"Objet pour le
+{c05}Grand tournoi d'arène{/c}."
 688,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Achat :
 {c05}Boutique générale{/c}."
@@ -2588,9 +2622,11 @@ membres{/c} pour les dates."
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
 910,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 911,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 912,"{c05}≪武具工房の親方≫{/c}
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
@@ -2601,24 +2637,33 @@ membres{/c} pour les dates."
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
 915,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 916,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 917,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 918,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 919,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 920,"{c05}≪武具工房の親方≫{/c}
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
 921,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 922,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪火山≫{/c}での{c05}≪採掘≫{/c}や
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","{c05}Extraction{/c} au {c05}Volcan{/c} en
+{c05}HR3+{/c}, ou échange de
+{c05}points N{/c}."
 923,"{c05}≪ＨＲ3以上≫{/c}の{c05}≪峡谷≫{/c}での
 {c05}≪釣り≫{/c}や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
@@ -2680,7 +2725,8 @@ membres{/c} pour les dates."
 {c05}≪Ｎポイント交換≫{/c}
 から入手可能。",
 946,"{c05}≪ギャラリー大会≫{/c}
-から入手可能。",
+から入手可能。","Obtenu du
+{c05}concours de galerie{/c}."
 947,"{c05}≪ＨＲ3以上≫{/c}の
 {c05}≪ギャラリー大会Ｇ≫{/c}
 から入手可能。",
@@ -2925,7 +2971,9 @@ de points N{/c}."
 から入手可能。",
 1036,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1037,"{c05}≪ＨＲ3〜4≫{/c}の
 {c05}≪ヴォルガノス亜種 ≫
 {/c}から入手可能。",
@@ -3084,7 +3132,8 @@ membres{/c}."
 à durée limitée{/c}. Voir le
 {c05}site des membres{/c}."
 1082,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 1083,"{c05}≪メンバーサイト≫{/c}の
 {c05}≪アイテム商品一覧≫{/c}を
 ご確認ください。","Consultez la {c05}liste des
@@ -3363,15 +3412,25 @@ de chasse officielles{/c}. Voir le
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
 1164,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 1165,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 1166,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 1167,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 1168,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 1169,"{c05}≪ＨＲ4以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。","Achat en {c05}HR4+{/c} :
@@ -3382,13 +3441,16 @@ de chasse officielles{/c}. Voir le
 {c05}Boutique générale{/c}."
 1171,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 1172,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 1173,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 1174,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Achat :
 {c05}Boutique générale{/c}."
@@ -3397,7 +3459,8 @@ de chasse officielles{/c}. Voir le
 {c05}Boutique générale{/c}."
 1176,"{c05}≪ＨＲ2以上≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}HR2+{/c} :
+{c05}Boutique générale{/c}."
 1177,"{c05}≪ＨＲ4以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。","Achat en {c05}HR4+{/c} :
@@ -3408,31 +3471,40 @@ de chasse officielles{/c}. Voir le
 {c05}Boutique générale{/c}."
 1179,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1180,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1181,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1182,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1183,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1184,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1185,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1186,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1187,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 1188,"{c05}≪ＨＲ4以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。","Achat en {c05}HR4+{/c} :
@@ -3610,10 +3682,14 @@ membres{/c}."
 から入手可能。",
 1242,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1243,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1244,"{c05}≪ＨＲ5〜6≫{/c}の
 {c05}≪メラルー≫≪チャチャブー≫
 {/c}から入手可能。",
@@ -4345,7 +4421,9 @@ quêtes{/c} en {c05}HR5-6{/c}."
 することで入手可能。",
 1484,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1485,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -4353,7 +4431,9 @@ quêtes{/c} en {c05}HR5-6{/c}."
 {c05}site des membres{/c}."
 1486,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1487,"{c05}≪マイトレ≫{/c}の
 {c05}≪ギルド特別依頼≫{/c}を
 達成することで入手可能。",
@@ -4365,16 +4445,22 @@ quêtes{/c} en {c05}HR5-6{/c}."
 達成することで入手可能。",
 1490,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1491,"{c05}≪マイトレ≫{/c}の
 {c05}≪ギルド特別依頼≫{/c}を
 達成することで入手可能。",
 1492,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1493,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1494,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}の達成や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
@@ -4408,22 +4494,34 @@ quêtes{/c} en {c05}HR5-6{/c}."
 1504,dummy,
 1505,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1506,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1507,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1508,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1509,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1510,"{c05}≪猟団クエスト≫{/c}の
 {c05}≪追加依頼≫{/c}を
-達成することで入手可能。",
+達成することで入手可能。","En accomplissant les {c05}demandes
+supplémentaires{/c} des {c05}quêtes
+de clan{/c}."
 1511,"{c05}≪マイトレ≫{/c}の
 {c05}≪ギルド特別依頼≫{/c}を
 達成することで入手可能。",
@@ -4615,25 +4713,45 @@ membres{/c}."
 {c05}≪ＨＲ5以上≫{/c}の
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
 1580,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1581,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1582,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1583,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1584,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1585,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1586,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1587,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1588,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1589,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1590,dummy,
 1591,dummy,
 1592,dummy,
@@ -4679,7 +4797,9 @@ membres{/c}."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
 1611,dummy,
 1612,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1613,"{c05}≪メゼポルタ広場≫{/c}で
 {c05}≪ガイド≫{/c}の{c05}≪継続コース特典≫{/c}
 から入手可能。",
@@ -4991,7 +5111,9 @@ membres{/c}."
 {c05}événements{/c} sur le
 {c05}site des membres{/c}."
 1691,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 1692,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -5756,7 +5878,8 @@ matériaux spéciaux{/c} en
 {c05}événements{/c} sur le
 {c05}site des membres{/c}."
 1858,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 1859,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -6187,7 +6310,9 @@ matériaux spéciaux{/c} en
 {/c}から入手可能。",
 2039,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 2040,dummy,
 2041,"クエストの{c05}≪支給品≫{/c}
 {c02}持ち帰り不可。","{c05}Objet fourni{/c} en quête.
@@ -8078,19 +8203,24 @@ des chasseurs{/c}. Voir le {c05}site
 des membres{/c} pour les dates."
 2537,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 2538,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 2539,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 2540,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 2541,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 2542,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -8623,93 +8753,137 @@ matériaux spéciaux{/c} en
 {c05}événements{/c} sur le
 {c05}site des membres{/c}."
 2659,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2660,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2661,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2662,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2663,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2664,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2665,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2666,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2667,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2668,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2669,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2670,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2671,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2672,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2673,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2674,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2675,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2676,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2677,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2678,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2679,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2680,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2681,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2682,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2683,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2684,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2685,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2686,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2687,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2688,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2689,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2690,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2691,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2692,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2693,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2694,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2695,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2696,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2697,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2698,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2699,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2700,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2701,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2702,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 2703,"{c05}≪ＨＲ1〜2≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫",
@@ -9483,10 +9657,12 @@ dédié{/c}."
 {c05}Forgeron{/c}."
 2906,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 2907,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 2908,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -10051,7 +10227,8 @@ membres{/c}."
 articles{/c} du {c05}site des
 membres{/c}."
 3041,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 3042,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -10220,7 +10397,8 @@ membres{/c}."
 3075,dummy,
 3076,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3077,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -10233,7 +10411,8 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 3079,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3080,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -10246,7 +10425,8 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 3082,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3083,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -11308,7 +11488,8 @@ matériaux spéciaux{/c} en {c05}HR4{/c}."
 {c05}site des membres{/c}."
 3338,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3339,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -11316,7 +11497,8 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 3340,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3341,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -11324,7 +11506,8 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 3342,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3343,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -11332,7 +11515,8 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 3344,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3345,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -12069,13 +12253,21 @@ membres{/c}."
 {c05}≪グレンゼブル≫{/c}の報酬
 から入手可能。",
 3552,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 3553,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 3554,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 3555,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 3556,"{c05}≪高地≫{/c}での{c05}≪虫とり≫{/c}や
 {c05}≪ＨＲ3以上≫{/c}の
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
@@ -12158,7 +12350,9 @@ membres{/c}."
 {c05}≪エルペ≫
 {/c}から入手可能。",
 3581,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 3582,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -12768,7 +12962,8 @@ matériaux spéciaux{/c} en
 {c05}HR5-6{/c}."
 3705,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3706,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -12781,7 +12976,8 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 3708,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3709,"{c05}≪狩人祭≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors du {c05}Festival
@@ -12789,7 +12985,8 @@ des chasseurs{/c}. Voir le {c05}site
 des membres{/c} pour les dates."
 3710,"{c05}≪ＨＲ4≫{/c}の
 {c05}≪特定のスキルカフクエスト≫{/c}
-から入手可能。",
+から入手可能。","Via certaines {c05}quêtes de
+brassard de compétence{/c} en {c05}HR4{/c}."
 3711,"{c05}≪公式狩猟大会≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors des {c05}compétitions
@@ -15710,7 +15907,8 @@ membres{/c}."
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。",
 4430,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 4431,"{c05}≪メンバーサイト≫{/c}の
 {c05}≪アイテム商品一覧≫{/c}を
 ご確認ください。","Consultez la {c05}liste des
@@ -17845,13 +18043,19 @@ de chasse officielles{/c}. Voir le
 {/c}から入手可能。",
 4943,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4944,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4945,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4946,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -17859,7 +18063,9 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 4947,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4948,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -17867,7 +18073,9 @@ de chasse officielles{/c}. Voir le
 {c05}site des membres{/c}."
 4949,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4950,"{c05}≪マイガーデン≫{/c}の
 {c05}≪世話やきネコ≫{/c}から入手可能。",
 4951,"{c05}≪マイガーデン≫{/c}の
@@ -17876,19 +18084,29 @@ de chasse officielles{/c}. Voir le
 {c05}≪１日１回≫{/c}入手可能。",
 4953,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4954,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4955,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4956,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4957,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 4958,"{c05}≪ＨＲ2〜4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。",
@@ -19417,13 +19635,19 @@ membres{/c}."
 {c02}Non conservable."
 5293,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5294,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5295,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5296,"{c05}≪ＨＲ1〜6≫{/c}の
 {c05}≪タイクンザムザ≫{/c}の落し物
 から入手可能。",
@@ -21162,7 +21386,8 @@ dédié{/c}."
 {c05}événements{/c} sur le
 {c05}site des membres{/c}."
 5693,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 5694,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -21283,7 +21508,9 @@ dédié{/c}."
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫",
 5733,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 5734,"{c05}≪ＨＲ5〜6≫{/c}の
 {c05}≪エスピナス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫",
@@ -21384,7 +21611,9 @@ dédié{/c}."
 から入手可能。",
 5762,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5763,"{c05}≪猟団トレジャー≫{/c}
 から入手可能。","S'obtient via le
 {c05}Trésor de clan{/c}."
@@ -21656,19 +21885,29 @@ membres{/c}."
 {c05}Forgeron{/c}."
 5844,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5845,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5846,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5847,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5848,"{c05}≪調合屋≫{/c}の
 {c05}≪本日の貢献Ｐ調合≫{/c}
-から入手可能。",
+から入手可能。","Via la {c05}combinaison de points
+de contribution du jour{/c} à
+l'{c05}atelier de combinaison{/c}."
 5849,"{c05}≪武具工房の親方≫{/c}
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
@@ -23921,7 +24160,9 @@ membres{/c}."
 6392,"{c05}≪マイガーデン≫{/c}の
 {c05}≪グーク鍋≫{/c}から入手可能。",
 6393,"訓練専用{c05}≪装飾品≫{/c}
-{c02}入手不可。",
+{c02}入手不可。","{c05}Décoration{/c} réservée à
+l'entraînement.
+{c02}Non obtenable."
 6394,"{c05}≪メンバーサイト≫{/c}の
 {c05}≪アイテム商品一覧≫{/c}を
 ご確認ください。","Consultez la {c05}liste des
@@ -24535,21 +24776,24 @@ membres{/c}."
 {c05}Boutique générale{/c}."
 6546,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 6547,"{c05}≪ＨＲ4以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。","Achat en {c05}HR4+{/c} :
 {c05}Boutique générale{/c}."
 6548,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 6549,"{c05}≪ＨＲ4以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。","Achat en {c05}HR4+{/c} :
 {c05}Boutique générale{/c}."
 6550,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 6551,"{c05}≪ＨＲ4以上≫{/c}で
 {c05}≪総合ショップ≫
 {/c}から入手可能。","Achat en {c05}HR4+{/c} :
@@ -24560,7 +24804,8 @@ membres{/c}."
 {c05}Boutique générale{/c}."
 6553,"{c05}≪Ｇ級≫{/c}で
 {c05}≪総合ショップ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Achat en {c05}rang G{/c} :
+{c05}Boutique générale{/c}."
 6554,dummy,
 6555,dummy,
 6556,dummy,
@@ -26329,31 +26574,49 @@ membres{/c}."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。",
 7130,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7131,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7132,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7133,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7134,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7135,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7136,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7137,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7138,"{c05}≪Ｇ級≫{/c}の報酬や
 {c05}≪ギルド貢献Ｐ交換≫{/c}
-{c05}≪Ｎポイント交換≫{/c}から入手可能。",
+{c05}≪Ｎポイント交換≫{/c}から入手可能。","Récompense en {c05}rang G{/c}, ou
+échange de {c05}points de
+contribution{/c} / {c05}points N{/c}."
 7139,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -26929,7 +27192,8 @@ membres{/c}."
 articles{/c} du {c05}site des
 membres{/c}."
 7274,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 7275,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -29062,11 +29326,15 @@ matériaux spéciaux{/c} en {c05}HR4{/c}."
 spécial{/c}. Voir le {c05}site des
 membres{/c} pour les dates."
 7982,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 7983,dummy,
 7984,dummy,
 7985,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 7986,"{c05}≪メンバーサイト≫{/c}の
 {c05}≪アイテム商品一覧≫{/c}を
 ご確認ください。","Consultez la {c05}liste des
@@ -33188,13 +33456,17 @@ des membres{/c} pour les dates."
 de la Diva{/c}. Voir le {c05}site
 des membres{/c} pour les dates."
 9018,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 9019,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 9020,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 9021,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 9022,"{c05}≪Ｇ級ＨＣクエスト≫{/c}を
 {c05}≪該当武器種≫{/c}で達成
 することで入手可能。",
@@ -33817,7 +34089,8 @@ des membres{/c} pour les dates."
 {c05}événements{/c} sur le
 {c05}site des membres{/c}."
 9183,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 9184,"{c05}≪武具工房の親方≫{/c}
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
@@ -37413,7 +37686,9 @@ membres{/c}."
 articles{/c} du {c05}site des
 membres{/c}."
 10098,"{c05}≪猟団イベント支援≫{/c}から
-猟団長のみ交換可能。",
+猟団長のみ交換可能。","Via l'{c05}aide aux événements
+de clan{/c}. Échange réservé au
+chef de clan."
 10099,ダミー,
 10100,ダミー,
 10101,"{c05}≪メンバーサイト≫{/c}の
@@ -41140,7 +41415,8 @@ des membres{/c} pour les dates."
 11286,{c05}≪狩煉道≫{/c}で入手可能。,"S'obtient dans la
 {c05}Voie du chasseur{/c}."
 11287,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 11288,"{c05}≪メンバーサイト≫{/c}や
 {c05}≪特設サイト≫{/c}を
 ご確認ください。","Consultez le {c05}site des
@@ -47261,13 +47537,17 @@ Couloir céleste{/c}."
 から入手可能。","Achat :
 {c05}Forgeron{/c}."
 12965,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 12966,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 12967,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 12968,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 12969,"{c05}≪Ｇ級ＨＣクエスト≫{/c}を
 {c05}≪該当武器種≫{/c}で達成
 することで入手可能。",
@@ -47950,7 +48230,8 @@ membres{/c}."
 articles{/c} du {c05}site des
 membres{/c}."
 13179,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 13180,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Voir {c05}actualités{/c} et
@@ -52212,34 +52493,54 @@ des membres{/c} pour les dates."
 des membres{/c} pour les dates."
 14390,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14391,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14392,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14393,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14394,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14395,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14396,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14397,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14398,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14399,"{c05}≪狩煉道受付≫{/c}の
 {c05}≪ポイント交換≫
-{/c}から入手可能。",
+{/c}から入手可能。","Échange de {c05}points{/c} à
+l'{c05}accueil de la Voie du
+chasseur{/c}."
 14400,"{c05}≪狩人祭≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors du {c05}Festival
@@ -54519,7 +54820,8 @@ des membres{/c} pour les dates."
 événements{/c}. Vérifiez le {c05}site
 des membres{/c} pour les dates."
 15045,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 15046,"{c05}≪遷悠クエスト≫{/c}の
 {c05}≪セルレギオス≫
 {/c}から入手可能。",
@@ -54981,7 +55283,8 @@ des membres{/c} pour les dates."
 événements{/c}. Vérifiez le {c05}site
 des membres{/c} pour les dates."
 15178,"特定の{c05}≪特別イベントクエスト≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de certaines {c05}quêtes
+événement spéciales{/c}."
 15179,"{c05}≪歌姫狩衛戦≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors de la {c05}Défense
@@ -55303,13 +55606,17 @@ des membres{/c} pour les dates."
 événements{/c}. Vérifiez le {c05}site
 des membres{/c} pour les dates."
 15256,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 15257,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 15258,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 15259,"{c05}≪武器魂入手クエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des {c05}quêtes
+d'obtention d'Âme d'arme{/c}."
 15260,"{c05}≪Ｇ級ＨＣクエスト≫{/c}を
 {c05}≪該当武器種≫{/c}で達成
 することで入手可能。",
