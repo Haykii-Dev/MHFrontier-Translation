@@ -5089,11 +5089,14 @@ membres{/c}."
 {c05}≪緊急ミッション≫{/c}の報酬
 から入手可能。",
 1555,"{c05}≪★ランククエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des
+{c05}quêtes ★{/c}."
 1556,"{c05}≪★ランククエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des
+{c05}quêtes ★{/c}."
 1557,"{c05}≪★ランククエスト≫{/c}の報酬
-から入手可能。",
+から入手可能。","Récompense des
+{c05}quêtes ★{/c}."
 1558,"{c05}≪精算アイテム≫
 {c02}持ち帰り不可。","{c05}Objet de décompte{/c}.
 {c02}Non conservable."
@@ -25651,7 +25654,8 @@ en {c05}rang G{/c}."
 en {c05}rang G{/c}."
 6655,"{c05}≪Ｇ級クエストの★１≫{/c}の
 {c05}≪イャンクック≫≪ポカラドン≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Yian Kut-Ku{/c} et {c05}Pokaradon{/c}
+en {c05}quête de rang G ★1{/c}."
 6656,"{c05}≪Ｇ級≫{/c}の
 {c05}≪ゲリョス≫
 {/c}から入手可能。","Obtenu de {c05}Gypceros{/c}
@@ -25702,7 +25706,8 @@ en {c05}rang G{/c}."
 en {c05}rang G{/c}."
 6668,"{c05}≪Ｇ級クエストの★２≫{/c}の
 {c05}≪ドスガレオス≫≪モノブロス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Cephadrome{/c} et {c05}Monoblos{/c}
+en {c05}quête de rang G ★2{/c}."
 6669,"{c05}≪Ｇ級≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。","Obtenu de {c05}Basarios{/c}
@@ -25765,7 +25770,8 @@ en {c05}rang G{/c}."
 en {c05}rang G{/c}."
 6684,"{c05}≪Ｇ級クエストの★３≫{/c}の
 {c05}≪リオレイア≫≪ゴゴモア≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rathian{/c} et {c05}Gogomoa{/c}
+en {c05}quête de rang G ★3{/c}."
 6685,"{c05}≪Ｇ級≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Obtenu de {c05}Rathalos{/c}
@@ -25844,7 +25850,8 @@ en {c05}rang G{/c}."
 en {c05}rang G{/c}."
 6704,"{c05}≪Ｇ級クエストの★４≫{/c}の
 {c05}≪ディアブロス≫≪フルフル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Diablos{/c} et {c05}Khezu{/c}
+en {c05}quête de rang G ★4{/c}."
 6705,"{c05}≪Ｇ級≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Obtenu de {c05}Espinas{/c}
@@ -25919,7 +25926,8 @@ en {c05}rang G{/c}."
 en {c05}rang G{/c}."
 6723,"{c05}≪Ｇ級クエストの★５≫{/c}の
 {c05}≪グラビモス≫≪ベルキュロス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gravios{/c} et {c05}Berukyurosu{/c}
+en {c05}quête de rang G ★5{/c}."
 6724,"{c05}≪Ｇ級≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。","Obtenu de {c05}Rajang{/c}
@@ -26018,7 +26026,8 @@ en {c05}rang G{/c}."
 en {c05}rang G{/c}."
 6748,"{c05}≪Ｇ級クエストの★７≫{/c}の
 {c05}≪アカムトルム≫≪グレンゼブル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Akantor{/c} et {c05}Gurenzeburu{/c}
+en {c05}quête de rang G ★7{/c}."
 6749,"{c05}≪Ｇ級≫{/c}の
 {c05}≪イャンクック≫≪リオレイア≫
 {/c}から入手可能。",
@@ -27513,7 +27522,8 @@ contribution{/c} / {c05}points N{/c}."
 {c05}site des membres{/c}."
 7161,"{c05}≪Ｇ級クエストの★６≫{/c}の
 {c05}≪ヴォルガノス≫≪エスピナス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Lavasioth{/c} et {c05}Espinas{/c}
+en {c05}quête de rang G ★6{/c}."
 7162,"{c05}≪メンバーサイト≫{/c}の
 {c05}≪アイテム商品一覧≫{/c}を
 ご確認ください。","Consultez la {c05}liste des
@@ -51390,16 +51400,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 13702,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ダイミョウザザミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Daimyo Hermitaur{/c}
+en {c05}quête Zénith ★1{/c}."
 13703,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ダイミョウザザミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Daimyo Hermitaur{/c}
+en {c05}quête Zénith ★2{/c}."
 13704,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ダイミョウザザミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Daimyo Hermitaur{/c}
+en {c05}quête Zénith ★3{/c}."
 13705,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ダイミョウザザミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Daimyo Hermitaur{/c}
+en {c05}quête Zénith ★4{/c}."
 13706,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Obtenu de {c05}Hypnocatrice{/c}
@@ -51434,16 +51448,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 13714,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ヒプノック≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hypnocatrice{/c}
+en {c05}quête Zénith ★1{/c}."
 13715,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ヒプノック≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hypnocatrice{/c}
+en {c05}quête Zénith ★2{/c}."
 13716,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ヒプノック≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hypnocatrice{/c}
+en {c05}quête Zénith ★3{/c}."
 13717,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ヒプノック≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hypnocatrice{/c}
+en {c05}quête Zénith ★4{/c}."
 13718,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Obtenu de {c05}Espinas{/c}
@@ -51494,16 +51512,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 13730,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 エスピナス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Espinas{/c}
+en {c05}quête Zénith ★1{/c}."
 13731,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 エスピナス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Espinas{/c}
+en {c05}quête Zénith ★2{/c}."
 13732,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 エスピナス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Espinas{/c}
+en {c05}quête Zénith ★3{/c}."
 13733,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 エスピナス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Espinas{/c}
+en {c05}quête Zénith ★4{/c}."
 13734,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪フルフル≫
 {/c}から入手可能。","Obtenu de {c05}Khezu{/c}
@@ -51554,16 +51576,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 13746,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 フルフル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Khezu{/c}
+en {c05}quête Zénith ★1{/c}."
 13747,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 フルフル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Khezu{/c}
+en {c05}quête Zénith ★2{/c}."
 13748,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 フルフル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Khezu{/c}
+en {c05}quête Zénith ★3{/c}."
 13749,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 フルフル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Khezu{/c}
+en {c05}quête Zénith ★4{/c}."
 13750,"{c05}≪遷悠クエスト≫{/c}の
 {c05}≪ゴア・マガラ≫
 {/c}から入手可能。","Obtenu de {c05}Gore Magala{/c}
@@ -51669,16 +51695,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 13776,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 リオレウス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rathalos{/c}
+en {c05}quête Zénith ★1{/c}."
 13777,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 リオレウス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rathalos{/c}
+en {c05}quête Zénith ★2{/c}."
 13778,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 リオレウス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rathalos{/c}
+en {c05}quête Zénith ★3{/c}."
 13779,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 リオレウス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rathalos{/c}
+en {c05}quête Zénith ★4{/c}."
 13780,"{c05}≪特定のイベント≫{/c}で入手可能。
 該当イベントが開催中かは{c05}≪メン
 バーサイト≫{/c}をご確認ください。","S'obtient lors de {c05}certains
@@ -52165,16 +52195,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 13928,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1ドドブランゴ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Blangonga{/c}
+en {c05}quête Zénith ★1{/c}."
 13929,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2ドドブランゴ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Blangonga{/c}
+en {c05}quête Zénith ★2{/c}."
 13930,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3ドドブランゴ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Blangonga{/c}
+en {c05}quête Zénith ★3{/c}."
 13931,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4ドドブランゴ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Blangonga{/c}
+en {c05}quête Zénith ★4{/c}."
 13932,"{c05}≪特定のイベント≫{/c}で入手可能。
 該当イベントが開催中かは{c05}≪メン
 バーサイト≫{/c}をご確認ください。","S'obtient lors de {c05}certains
@@ -52708,16 +52742,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14051,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 アクラ・ヴァシム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Akura Vashimu{/c}
+en {c05}quête Zénith ★1{/c}."
 14052,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 アクラ・ヴァシム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Akura Vashimu{/c}
+en {c05}quête Zénith ★2{/c}."
 14053,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 アクラ・ヴァシム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Akura Vashimu{/c}
+en {c05}quête Zénith ★3{/c}."
 14054,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 アクラ・ヴァシム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Akura Vashimu{/c}
+en {c05}quête Zénith ★4{/c}."
 14055,"{c05}≪Ｇ級≫{/c}の
 {c05}≪ケオアルボル≫
 {/c}から入手可能。","Obtenu de {c05}Keoaruboru{/c}
@@ -52835,16 +52873,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14082,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ティガレックス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Tigrex{/c}
+en {c05}quête Zénith ★1{/c}."
 14083,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ティガレックス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Tigrex{/c}
+en {c05}quête Zénith ★2{/c}."
 14084,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ティガレックス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Tigrex{/c}
+en {c05}quête Zénith ★3{/c}."
 14085,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ティガレックス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Tigrex{/c}
+en {c05}quête Zénith ★4{/c}."
 14086,dummy,
 14087,dummy,
 14088,"{c05}≪メンバーサイト≫{/c}の{c05}≪ニュース≫{/c}
@@ -53559,16 +53601,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14261,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ギアオルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Giaorugu{/c}
+en {c05}quête Zénith ★1{/c}."
 14262,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ギアオルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Giaorugu{/c}
+en {c05}quête Zénith ★2{/c}."
 14263,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ギアオルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Giaorugu{/c}
+en {c05}quête Zénith ★3{/c}."
 14264,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ギアオルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Giaorugu{/c}
+en {c05}quête Zénith ★4{/c}."
 14265,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪ヒュジキキ≫
 {/c}から入手可能。","Obtenu de {c05}Hyujikiki{/c}
@@ -53619,16 +53665,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14277,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ヒュジキキ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hyujikiki{/c}
+en {c05}quête Zénith ★1{/c}."
 14278,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ヒュジキキ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hyujikiki{/c}
+en {c05}quête Zénith ★2{/c}."
 14279,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ヒュジキキ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hyujikiki{/c}
+en {c05}quête Zénith ★3{/c}."
 14280,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ヒュジキキ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Hyujikiki{/c}
+en {c05}quête Zénith ★4{/c}."
 14281,dummy,
 14282,dummy,
 14283,"{c05}≪メンバーサイト≫{/c}の
@@ -53971,16 +54021,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14384,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ミドガロン≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Midogaron{/c}
+en {c05}quête Zénith ★1{/c}."
 14385,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ミドガロン≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Midogaron{/c}
+en {c05}quête Zénith ★2{/c}."
 14386,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ミドガロン≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Midogaron{/c}
+en {c05}quête Zénith ★3{/c}."
 14387,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ミドガロン≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Midogaron{/c}
+en {c05}quête Zénith ★4{/c}."
 14388,"{c05}≪特定のイベント≫{/c}で入手可能。
 該当イベントが開催中かは{c05}≪メン
 バーサイト≫{/c}をご確認ください。","S'obtient lors de {c05}certains
@@ -54520,16 +54574,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14517,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ガノトトス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Plesioth{/c}
+en {c05}quête Zénith ★1{/c}."
 14518,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ガノトトス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Plesioth{/c}
+en {c05}quête Zénith ★2{/c}."
 14519,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ガノトトス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Plesioth{/c}
+en {c05}quête Zénith ★3{/c}."
 14520,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ガノトトス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Plesioth{/c}
+en {c05}quête Zénith ★4{/c}."
 14521,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。","Obtenu de {c05}Plesioth{/c}
@@ -54606,16 +54664,20 @@ articles{/c} du {c05}site des
 membres{/c}."
 14539,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ルコディオラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rukodiora{/c}
+en {c05}quête Zénith ★1{/c}."
 14540,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ルコディオラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rukodiora{/c}
+en {c05}quête Zénith ★2{/c}."
 14541,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ルコディオラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rukodiora{/c}
+en {c05}quête Zénith ★3{/c}."
 14542,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ルコディオラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Rukodiora{/c}
+en {c05}quête Zénith ★4{/c}."
 14543,"{c05}≪狩人祭≫{/c}で入手可能。
 開催中のイベントは{c05}≪メンバー
 サイト≫{/c}をご確認ください。","S'obtient lors du {c05}Festival
@@ -55345,16 +55407,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14738,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 イナガミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Inagami{/c}
+en {c05}quête Zénith ★1{/c}."
 14739,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 イナガミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Inagami{/c}
+en {c05}quête Zénith ★2{/c}."
 14740,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 イナガミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Inagami{/c}
+en {c05}quête Zénith ★3{/c}."
 14741,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 イナガミ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Inagami{/c}
+en {c05}quête Zénith ★4{/c}."
 14742,"{c05}≪特定のイベント≫{/c}で入手可能。
 該当イベントが開催中かは{c05}≪メン
 バーサイト≫{/c}をご確認ください。","S'obtient lors de {c05}certains
@@ -55753,16 +55819,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14865,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 トリドクレス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Toridcless{/c}
+en {c05}quête Zénith ★1{/c}."
 14866,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 トリドクレス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Toridcless{/c}
+en {c05}quête Zénith ★2{/c}."
 14867,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 トリドクレス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Toridcless{/c}
+en {c05}quête Zénith ★3{/c}."
 14868,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 トリドクレス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Toridcless{/c}
+en {c05}quête Zénith ★4{/c}."
 14869,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Obtenu de {c05}Toridcless{/c}
@@ -55805,16 +55875,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14879,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ドラギュロス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Doragyurosu{/c}
+en {c05}quête Zénith ★1{/c}."
 14880,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ドラギュロス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Doragyurosu{/c}
+en {c05}quête Zénith ★2{/c}."
 14881,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ドラギュロス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Doragyurosu{/c}
+en {c05}quête Zénith ★3{/c}."
 14882,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ドラギュロス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Doragyurosu{/c}
+en {c05}quête Zénith ★4{/c}."
 14883,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪ドラギュロス≫
 {/c}から入手可能。","Obtenu de {c05}Doragyurosu{/c}
@@ -56104,16 +56178,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14956,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 アノルパティス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Anorupatisu{/c}
+en {c05}quête Zénith ★1{/c}."
 14957,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 アノルパティス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Anorupatisu{/c}
+en {c05}quête Zénith ★2{/c}."
 14958,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 アノルパティス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Anorupatisu{/c}
+en {c05}quête Zénith ★3{/c}."
 14959,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 アノルパティス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Anorupatisu{/c}
+en {c05}quête Zénith ★4{/c}."
 14960,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪アノルパティス≫
 {/c}から入手可能。","Obtenu de {c05}Anorupatisu{/c}
@@ -56192,16 +56270,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 14979,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ガスラバズラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gasurabazura{/c}
+en {c05}quête Zénith ★1{/c}."
 14980,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ガスラバズラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gasurabazura{/c}
+en {c05}quête Zénith ★2{/c}."
 14981,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ガスラバズラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gasurabazura{/c}
+en {c05}quête Zénith ★3{/c}."
 14982,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ガスラバズラ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gasurabazura{/c}
+en {c05}quête Zénith ★4{/c}."
 14983,{c05}≪功猟ポイント≫{/c}で入手可能。,"Échange de
 {c05}points Kouryou{/c}."
 14984,{c05}≪功猟ポイント≫{/c}で入手可能。,"Échange de
@@ -57806,16 +57888,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 15391,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ボガバドルム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Bogabadorumu{/c}
+en {c05}quête Zénith ★1{/c}."
 15392,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ボガバドルム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Bogabadorumu{/c}
+en {c05}quête Zénith ★2{/c}."
 15393,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ボガバドルム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Bogabadorumu{/c}
+en {c05}quête Zénith ★3{/c}."
 15394,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ボガバドルム≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Bogabadorumu{/c}
+en {c05}quête Zénith ★4{/c}."
 15395,{c05}≪功猟ポイント≫{/c}で入手可能。,"Échange de
 {c05}points Kouryou{/c}."
 15396,{c05}≪功猟ポイント≫{/c}で入手可能。,"Échange de
@@ -58070,16 +58156,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 15472,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 グラビモス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gravios{/c}
+en {c05}quête Zénith ★1{/c}."
 15473,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 グラビモス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gravios{/c}
+en {c05}quête Zénith ★2{/c}."
 15474,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 グラビモス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gravios{/c}
+en {c05}quête Zénith ★3{/c}."
 15475,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 グラビモス≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Gravios{/c}
+en {c05}quête Zénith ★4{/c}."
 15476,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Obtenu de {c05}Baruragaru{/c}
@@ -58130,16 +58220,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 15488,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 バルラガル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Baruragaru{/c}
+en {c05}quête Zénith ★1{/c}."
 15489,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 バルラガル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Baruragaru{/c}
+en {c05}quête Zénith ★2{/c}."
 15490,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 バルラガル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Baruragaru{/c}
+en {c05}quête Zénith ★3{/c}."
 15491,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 バルラガル≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Baruragaru{/c}
+en {c05}quête Zénith ★4{/c}."
 15492,{c05}≪功猟ポイント≫{/c}で入手可能。,"Échange de
 {c05}points Kouryou{/c}."
 15493,{c05}≪功猟ポイント≫{/c}で入手可能。,"Échange de
@@ -61185,16 +61279,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 16435,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 ハルドメルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Harudomerugu{/c}
+en {c05}quête Zénith ★1{/c}."
 16436,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 ハルドメルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Harudomerugu{/c}
+en {c05}quête Zénith ★2{/c}."
 16437,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 ハルドメルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Harudomerugu{/c}
+en {c05}quête Zénith ★3{/c}."
 16438,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 ハルドメルグ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Harudomerugu{/c}
+en {c05}quête Zénith ★4{/c}."
 16439,"{c05}≪特定のイベント≫{/c}で入手可能。
 該当イベントが開催中かは{c05}≪メン
 バーサイト≫{/c}をご確認ください。","S'obtient lors de {c05}certains
@@ -61512,16 +61610,20 @@ en {c05}quête Zénith{/c}."
 en {c05}quête Zénith{/c}."
 16504,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★1 タイクンザムザ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Taikun Zamuza{/c}
+en {c05}quête Zénith ★1{/c}."
 16505,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★2 タイクンザムザ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Taikun Zamuza{/c}
+en {c05}quête Zénith ★2{/c}."
 16506,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★3 タイクンザムザ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Taikun Zamuza{/c}
+en {c05}quête Zénith ★3{/c}."
 16507,"{c05}≪辿異クエスト≫{/c}の
 {c05}≪★4 タイクンザムザ≫
-{/c}から入手可能。",
+{/c}から入手可能。","Obtenu de {c05}Taikun Zamuza{/c}
+en {c05}quête Zénith ★4{/c}."
 16508,"{c05}≪特定のイベント≫{/c}で入手可能。
 該当イベントが開催中かは{c05}≪メン
 バーサイト≫{/c}をご確認ください。","S'obtient lors de {c05}certains
