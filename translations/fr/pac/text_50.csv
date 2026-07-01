@@ -1,74 +1,74 @@
 index,source,target
-0,None{j}　,
+0,None{j}　,Aucun{j}　
 1,"歩行{j}押下中は前方に
-歩行",
+歩行",Marche{j}Avance tant que maintenu
 2,"ダッシュ{j}押下中は前方に
-ダッシュ",
+ダッシュ",Course{j}Sprinte tant que maintenu
 3,"回避{j}方向カーソルの向
-いている方へ回避",
+いている方へ回避",Esquive{j}Esquive vers la direction du curseur
 4,"Reset Camera{j}カメラを前方へ
-リセット",
+リセット",Recentrer caméra{j}Recentre la caméra vers l’avant
 5,"カメラ・反時計{j}回転中はカメラの
-角度が反時計回り",
+角度が反時計回り",Caméra antihoraire{j}La caméra pivote en sens antihoraire
 6,"カメラ・時計{j}回転中はカメラの
-角度が時計回り",
+角度が時計回り",Caméra horaire{j}La caméra pivote en sens horaire
 7,"自動カメラ・反時計{j}角度が反時計回りに
-自動で回転",
+自動で回転",Caméra auto antihoraire{j}Pivote automatiquement en sens antihoraire
 8,"自動カメラ・時計{j}角度が時計回りに
-自動で回転",
+自動で回転",Caméra auto horaire{j}Pivote automatiquement en sens horaire
 9,"カメラ・上昇{j}回転中はカメラの
-角度が上昇",
+角度が上昇",Caméra vers le haut{j}Monte l’angle de la caméra
 10,"カメラ・下降{j}回転中はカメラの
-角度が下降",
-11,弾の選択・上{j}上方向に弾を切り替え,
-12,弾の選択・下{j}下方向に弾を切り替え,
+角度が下降",Caméra vers le bas{j}Baisse l’angle de la caméra
+11,弾の選択・上{j}上方向に弾を切り替え,Sélection munition (haut){j}Change de munition vers le haut
+12,弾の選択・下{j}下方向に弾を切り替え,Sélection munition (bas){j}Change de munition vers le bas
 13,"前方向設定攻撃{j}ゲームパッドの右
-スティック前と同じ",
+スティック前と同じ",Attaque avant{j}Comme le stick droit vers l’avant
 14,"後方向設定攻撃{j}ゲームパッドの右
-スティック後ろと同じ",
+スティック後ろと同じ",Attaque arrière{j}Comme le stick droit vers l’arrière
 15,"右方向設定攻撃{j}ゲームパッドの右
-スティック右と同じ",
+スティック右と同じ",Attaque droite{j}Comme le stick droit vers la droite
 16,"左方向設定攻撃{j}ゲームパッドの右
-スティック左と同じ",
+スティック左と同じ",Attaque gauche{j}Comme le stick droit vers la gauche
 17,"特殊攻撃１{j}ゲームパッドの
-Ｒ１ボタンと同じ",
+Ｒ１ボタンと同じ",Attaque spéciale 1{j}Comme le bouton R1
 18,"特殊攻撃２{j}ゲームパッドの
-Ｒ３ボタンと同じ",
-19,全方向設定{j}向きを決定,
+Ｒ３ボタンと同じ",Attaque spéciale 2{j}Comme le bouton R3
+19,全方向設定{j}向きを決定,Réglage omnidirectionnel{j}Définit l’orientation
 20,"全方向設定攻撃{j}ゲームパッドの右
-スティックと同じ",
+スティックと同じ",Attaque omnidirectionnelle{j}Comme le stick droit
 21,"カメラ左右設定{j}カメラを時計回り・
-反時計回りに回転",
-22,Use Item{j}アイテムを使用する,
-23,Attack{j}攻撃に使用,
-24,カメラ{j}カメラ移動,
-25,コンボパレット再生{j}セット番号を順次再生,
-26,アイテムの選択・右{j}回転で選択（右送り),
-27,アイテムの選択・左{j}回転で選択（左送り),
+反時計回りに回転",Réglage caméra G/D{j}Fait pivoter la caméra dans les deux sens
+22,Use Item{j}アイテムを使用する,Utiliser objet{j}Utilise un objet
+23,Attack{j}攻撃に使用,Attaque{j}Sert à attaquer
+24,カメラ{j}カメラ移動,Caméra{j}Déplace la caméra
+25,コンボパレット再生{j}セット番号を順次再生,Lecture palette de combos{j}Joue les combos par numéro
+26,アイテムの選択・右{j}回転で選択（右送り),Sélection objet (droite){j}Sélection par rotation (droite)
+27,アイテムの選択・左{j}回転で選択（左送り),Sélection objet (gauche){j}Sélection par rotation (gauche)
 28,"コンボの選択・昇順{j}コンボパレットの選択
-（昇順)",
+（昇順)",Sélection combo (croissant){j}Sélection de palette de combos (croissant)
 29,"コンボの選択・降順{j}コンボパレットの選択
-（降順)",
+（降順)",Sélection combo (décroissant){j}Sélection de palette de combos (décroissant)
 30,"カメラの上下左右設定{j}カメラの移動
-エイミングの操作",
-31,オブジェクトアクセス{j}採取や剥ぎ取り動作,
-32,アイテム選択{j}テーブルを左右に回転,
-33,コンボパレット再生{j}セット番号を順次再生,
-34,ダッシュ{j}押下中はダッシュ,
+エイミングの操作",Réglage caméra (4 dir.){j}Déplace la caméra / visée
+31,オブジェクトアクセス{j}採取や剥ぎ取り動作,Interaction{j}Récolte et dépeçage
+32,アイテム選択{j}テーブルを左右に回転,Sélection objet{j}Fait tourner la table G/D
+33,コンボパレット再生{j}セット番号を順次再生,Lecture palette de combos{j}Joue les combos par numéro
+34,ダッシュ{j}押下中はダッシュ,Course{j}Sprinte tant que maintenu
 35,"回避行動{j}進行方法へ回避
-停止時はしゃがむ",
-36,特殊行動{j}武器毎に特殊行動,
-37,弾丸ビン剣晶選択{j}テーブルを上下へ回転,
+停止時はしゃがむ",Esquive{j}Esquive vers l’avant ; accroupi à l’arrêt
+36,特殊行動{j}武器毎に特殊行動,Action spéciale{j}Action spéciale selon l’arme
+37,弾丸ビン剣晶選択{j}テーブルを上下へ回転,Sélection munitions/fioles/cristaux{j}Fait tourner la table haut/bas
 38,"カメラ左右移動{j}スコープモードや照準
-移動時は上下移動可",
-39,Guard{j}防御態勢を取る,
-40,Reload{j}弾丸の装填,
-41,溜め{j}強い打撃技を放つ,
-42,Guard{j}防御態勢を取る,
-43,Guard{j}防御態勢を取る,
-44,Reload{j}弾丸の装填,
-45,Demon Mode{j}一時攻撃力を増す,
-46,Spirit Blade{j}ゲージ消費斬撃,
-47,演奏開始{j}狩猟補助の旋律を演奏,
-48,Guard{j}防御態勢を取る,
-49,Take Aim{j}矢の軌道目安を表示,
+移動時は上下移動可",Déplacement caméra G/D{j}En visée/scope : déplacement vertical possible
+39,Guard{j}防御態勢を取る,Garde{j}Se met en garde
+40,Reload{j}弾丸の装填,Recharger{j}Recharge les munitions
+41,溜め{j}強い打撃技を放つ,Charge{j}Déclenche une attaque puissante
+42,Guard{j}防御態勢を取る,Garde{j}Se met en garde
+43,Guard{j}防御態勢を取る,Garde{j}Se met en garde
+44,Reload{j}弾丸の装填,Recharger{j}Recharge les munitions
+45,Demon Mode{j}一時攻撃力を増す,Mode démon{j}Augmente l’attaque un temps
+46,Spirit Blade{j}ゲージ消費斬撃,Lame spirituelle{j}Attaque consommant la jauge
+47,演奏開始{j}狩猟補助の旋律を演奏,Jouer{j}Joue une mélodie de soutien
+48,Guard{j}防御態勢を取る,Garde{j}Se met en garde
+49,Take Aim{j}矢の軌道目安を表示,Visée{j}Affiche la trajectoire de la flèche
