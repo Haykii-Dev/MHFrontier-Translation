@@ -1,5 +1,5 @@
 index,source,target
-0,Status{j}受信制限{j}{c10}制限解除,
-1,Status{j}{c10}受信制限{j}制限解除,
-2,Status{j}{c10}受信制限{/c}{j}制限解除,
-3,制限解除,
+0,Status{j}受信制限{j}{c10}制限解除,Status{j}Reception restrictions{j}{c10}Restrictions lifted
+1,Status{j}{c10}受信制限{j}制限解除,Status{j}{c10}Reception restrictions{j}Restrictions lifted
+2,Status{j}{c10}受信制限{/c}{j}制限解除,Status{j}{c10}Reception restrictions{/c}{j}Restrictions lifted
+3,制限解除,Restrictions lifted
