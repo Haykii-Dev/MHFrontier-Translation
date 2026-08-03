@@ -15,12 +15,12 @@ index,source,target
 13,Pioneer ：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}Time Left:{j}{j},
 14,Pioneer ：{j}{j}Main Objective:{j}{j}{j}{j}{j}{j}{j}Area:{j}{j}Season and Time:{j}{j}{j}Conditions:{j}{j}{j}{j},
 15,Pioneer ：{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-16,Pioneer ：{j}{j}マストオーダー：{j}{j}{j}{j}{j}{j}{j}Area:{j}{j}季節と時間:{j}{j}{j}Conditions:{j}{j}{j}{j},
+16,Pioneer ：{j}{j}マストオーダー：{j}{j}{j}{j}{j}{j}{j}Area:{j}{j}季節と時間:{j}{j}{j}Conditions:{j}{j}{j}{j},{j}{j}マストオーダー：{j}{j}{j}{j}{j}{j}{j}Area:{j}{j}Seasons and Time:{j}{j}{j}Conditions:{j}{j}{j}{j}
 17,Pioneer ：{j}{j}{j}{j}Time:{j}Contract:{j}Reward　：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
 18,Quest Name:{j}{j}{j}Goal：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}Time Left:{j}{j}{j},
 19,Contract:{j}{j}{j}Time:{j}{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
 20,Contract:{j}{j}{j}Time:{j}{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
 21,Quest Name:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
 22,Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}Sub-A Reward:{j}Sub-B Reward:{j}Success P　：{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-23,Quest Name:{j}{j}Contract　　：{j}{j}Conditions　：{j}{j}{j}{j}Return Method ：{j}{j}{j}{j}失敗条件　　：{j}{j}{j}{j}{j}{j},
+23,Quest Name:{j}{j}Contract　　：{j}{j}Conditions　：{j}{j}{j}{j}Return Method ：{j}{j}{j}{j}失敗条件　　：{j}{j}{j}{j}{j}{j},{j}{j}Contract　　：{j}{j}Conditions　：{j}{j}{j}{j}Return Method ：{j}{j}{j}{j}Fail Cond.　　：{j}{j}{j}{j}{j}{j}
 24,Quest Name:{j}{j}Contract　　：{j}{j}Conditions　：{j}{j}{j}{j}Return Method ：{j}{j}{j}{j}Fail Cond.　：{j}{j}{j}{j}Time Left　　：{j}{j},
